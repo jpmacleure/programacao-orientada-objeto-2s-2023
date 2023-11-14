@@ -1,5 +1,7 @@
 *.sqlite
 
+*/target/*
+
 # Compiled class file
 *.class
 
